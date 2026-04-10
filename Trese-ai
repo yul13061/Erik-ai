@@ -46,7 +46,7 @@ while True:
 
     reply = chat.choices[0].message.content
 
-    print("Henry says:")
+    print("trese says:")
     print(reply)
 
     engine.say(reply)
