@@ -13,4 +13,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-We do not know about vunablility yet if you find one please email me on yul.codinguser@gmail.com
+We do not know about vunablility yet if you find one please email me on help.eric.ai@gmail.com
